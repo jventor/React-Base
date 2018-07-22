@@ -11,3 +11,7 @@ Prettier: VS Code package to format your JavaScript / TypeScript / CSS [Prettier
 Typechecking: [PropTypes](https://www.npmjs.com/package/prop-types).
 
 Styling components: [styled-components](https://github.com/styled-components/styled-components).
+
+A lightweight toolset for writing styles in JavaScript [Polished](https://github.com/styled-components/polished).
+
+
