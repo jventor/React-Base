@@ -9,3 +9,5 @@ Eslint config: [Airbnb rules](https://github.com/airbnb/javascript/tree/master/p
 Prettier: VS Code package to format your JavaScript / TypeScript / CSS [Prettier](https://github.com/prettier/prettier-vscode).
 
 Typechecking: [PropTypes](https://www.npmjs.com/package/prop-types).
+
+Styling components: [styled-components](https://github.com/styled-components/styled-components).
