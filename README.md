@@ -17,3 +17,8 @@ A lightweight toolset for writing styles in JavaScript [Polished](https://github
 Super simple lib to map props to styles with styled-components [Styled Map](https://github.com/scf4/styled-map).
 
 Routing for React [react-router](https://www.npmjs.com/package/react-router) [react router training](https://reacttraining.com/react-router/web/guides/philosophy)
+
+Test:
+- [Enzyme](https://github.com/airbnb/enzyme)
+- [Using Jest with enzyme](https://github.com/airbnb/enzyme/blob/master/docs/guides/jest.md)
+- [Jest](https://jestjs.io/docs/en/configuration)
