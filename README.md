@@ -15,3 +15,5 @@ Styling components: [styled-components](https://github.com/styled-components/sty
 A lightweight toolset for writing styles in JavaScript [Polished](https://github.com/styled-components/polished).
 
 Super simple lib to map props to styles with styled-components [Styled Map](https://github.com/scf4/styled-map).
+
+Routing for React [react-router](https://www.npmjs.com/package/react-router) [react router training](https://reacttraining.com/react-router/web/guides/philosophy)
