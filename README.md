@@ -6,7 +6,4 @@ Editor config (.editorconfig) [Airbnb rules](https://github.com/airbnb/javascrip
 
 Eslint config: [Airbnb rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
 
-
-
-Eslint config: [Airbnb rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
-
+Prettier: VS Code package to format your JavaScript / TypeScript / CSS [Prettier](https://github.com/prettier/prettier-vscode).
