@@ -5,3 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Editor config (.editorconfig) [Airbnb rules](https://github.com/airbnb/javascript/blob/master/.editorconfig).
 
 
+Eslint config: [Airbnb rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
+
