@@ -8,3 +8,5 @@ Eslint config: [Airbnb rules](https://github.com/airbnb/javascript/tree/master/p
 
 
 
+Eslint config: [Airbnb rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
+
